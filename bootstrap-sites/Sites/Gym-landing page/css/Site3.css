@@ -1,0 +1,15 @@
+.font{
+	font-size: 60px;
+}
+.h{
+	width: 280px;
+
+	font-size: 50px;
+}
+.bg{
+	
+	background: url("6.jpg");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
